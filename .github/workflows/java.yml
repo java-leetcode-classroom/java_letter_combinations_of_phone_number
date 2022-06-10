@@ -20,7 +20,7 @@ jobs:
           distribution: zulu
           java-version: 11
       - name: Grant execution permission for gradlew
-          run: chmod +x gradlew
+        run: chmod +x gradlew
       - name: Cache Gradle packages
         uses: actions/cache@v1
         with:

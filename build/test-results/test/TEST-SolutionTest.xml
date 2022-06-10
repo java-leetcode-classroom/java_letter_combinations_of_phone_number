@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-10T06:51:19" hostname="yuanyu-ubuntu" time="0.038">
+<testsuite name="SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-10T06:56:40" hostname="yuanyu-ubuntu" time="0.03">
   <properties/>
-  <testcase name="letterCombinationsExample1()" classname="SolutionTest" time="0.034"/>
+  <testcase name="letterCombinationsExample1()" classname="SolutionTest" time="0.026"/>
   <testcase name="letterCombinationsExample2()" classname="SolutionTest" time="0.001"/>
   <testcase name="letterCombinationsExample3()" classname="SolutionTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
